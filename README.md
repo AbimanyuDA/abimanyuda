@@ -1,39 +1,63 @@
 # Hi, I'm Abimanyu 👋
 Full-Stack Developer | Data & Finance Enthusiast | Tech x Business
 
+I build scalable systems where **data meets financial clarity**.  
+Experienced in backend development, data analysis, and digital finance workflows.
+
+---
+
 ## 🚀 About Me
-- Full-stack developer dengan fokus data, finance, dan sistem digital
-- Pengalaman mengelola data keuangan & analisis tren
-- Tertarik pada fintech, payment system, dan data-driven decision
+- Full-stack developer with strong backend focus  
+- Experienced in financial data management & analytics  
+- Interested in fintech, payment systems, and data-driven decision making  
+- Comfortable working between **technical execution & business needs**
+
+---
 
 ## 🛠 Tech Stack
-## 📊 GitHub Stats
+**Languages & Frameworks**
+- Python, Go, JavaScript
+- REST API, Backend Architecture
+
+**Data & Database**
+- PostgreSQL, MySQL
+- Pandas, Data Analysis
+
+**Tools & DevOps**
+- Docker
+- Git & GitHub
+- Linux Server / VPS
+
+---
+
 ## 📂 Featured Projects
-## 📫 Connect With Me
+🔹 **Finance Dashboard API**  
+Backend service for tracking income & expenses with monthly analytics  
+`Go • PostgreSQL • REST API`
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight)
+🔹 **Data Analysis & Prediction**
+Data-driven projects using Python for analytics & forecasting  
+`Python • Pandas • Matplotlib`
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight)
+🔹 **Web-Based Systems**
+Full-stack applications with clean architecture & clear data flow
 
-### 🛠 Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+_(see pinned repositories below 👇)_
 
-## 📌 Project Overview
-Dashboard keuangan berbasis API untuk analisis expense & income.
+---
 
-## 🔧 Tech Stack
-Go, PostgreSQL, React, Docker
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abimanyuda&show_icons=true&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abimanyuda&layout=compact&theme=github_dark)
 
-## 📊 Features
-- REST API
-- Auth & role
-- Visualisasi data
+---
 
 ## 📈 Current Focus
-- Finance data analytics
-- Payment system & fintech research
-- Scalable backend architecture
+- Financial data analytics  
+- Payment systems & fintech research  
+- Scalable backend architecture  
+
+---
+
+## 📫 Connect With Me
+- GitHub: https://github.com/abimanyuda
