@@ -7,7 +7,7 @@ Experienced in backend development, data analysis, and digital finance workflows
 ---
 
 ## 🚀 About Me
-- Full-stack developer with strong backend focus  
+- Full-stack developer with strong entreprise architect solution foucus
 - Experienced in financial data management & analytics  
 - Interested in fintech, payment systems, and data-driven decision making  
 - Comfortable working between **technical execution & business needs**
