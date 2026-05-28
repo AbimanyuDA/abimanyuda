@@ -1,8 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:a855f7&height=150&text=Hi,%20I%27m%20Abimanyu&fontSize=50&fontColor=ffffff&fontAlignY=45&animation=twinkling&desc=AI%20Engineer%20and%20Software%20Developer&descSize=30&descAlignY=85&section=header">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:c7d2fe,100:e9d5ff&height=150&text=Hi,%20I%27m%20Abimanyu&fontSize=50&fontColor=3730a3&fontAlignY=45&animation=twinkling&desc=AI%20Engineer%20and%20Software%20Developer&descSize=30&descAlignY=85&section=header">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c7d2fe,100:e9d5ff&height=150&text=Hi,%20I%27m%20Abimanyu&fontSize=50&fontColor=3730a3&fontAlignY=45&animation=twinkling&desc=AI%20Engineer%20and%20Software%20Developer&descSize=30&descAlignY=85&section=header" alt="Header">
-</picture>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:a855f7&height=150&text=Hi,%20I%27m%20Abimanyu&fontSize=50&fontColor=ffffff&fontAlignY=45&animation=twinkling&desc=AI%20Engineer%20and%20Software%20Developer&descSize=30&descAlignY=85&section=header)
 
 I am an AI Engineer, Full-Stack Developer, and Data Scientist with a strong interest in finance and investment. I have experience in designing and developing end-to-end digital solutions, implementing artificial intelligence (AI) systems, analyzing business and financial data, and bridging technology capabilities with business strategy.
 
@@ -28,8 +24,4 @@ I focus on building innovative, smart, and efficient digital systems that connec
 
 ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=abimanyuda&card_width=495&langs_count=7&layout=compact&theme=tokyonight)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:a855f7&height=100&section=footer">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:c7d2fe,100:e9d5ff&height=100&section=footer">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c7d2fe,100:e9d5ff&height=100&section=footer" alt="Footer">
-</picture>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:a855f7&height=100&section=footer)
