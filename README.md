@@ -1,63 +1,27 @@
-# Hi, I'm Abimanyu 👋
-Full-Stack Developer | Data & Finance Enthusiast | Tech x Business
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:a855f7&height=150&text=Hi,%20I'm%20Abimanyu&fontSize=50&fontColor=ffffff&fontAlignY=45&animation=twinkling&desc=AI%20Engineer%20%26%20Software%20Developer&descSize=30&descAlignY=85&section=header" /> 
 
-I build scalable systems where **data meets financial clarity**.  
-Experienced in backend development, data analysis, and digital finance workflows.
+I am an AI Engineer, Full-Stack Developer, and Data Scientist with a strong interest in finance and investment. I have experience in designing and developing end-to-end digital solutions, implementing artificial intelligence (AI) systems, analyzing business and financial data, and bridging technology capabilities with business strategy.
 
----
+I focus on building innovative, smart, and efficient digital systems that connect high-performance technical execution with real-world business needs. 
 
-## 🚀 About Me
-- Full-stack developer with strong entreprise architect solution foucus
-- Experienced in financial data management & analytics  
-- Interested in fintech, payment systems, and data-driven decision making  
-- Comfortable working between **technical execution & business needs**
+[![Mail Badge](https://img.shields.io/badge/-abimanyudans@gmail.com-dc2626?style=flat&labelColor=dc2626&logo=gmail&logoColor=white)](mailto:abimanyudans@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-abimanyudans-0284c7?style=flat&labelColor=0284c7&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abimanyudans/) 
+[![Instagram Badge](https://img.shields.io/badge/-@abimanyudans-c026d3?style=flat&labelColor=c026d3&logo=instagram&logoColor=white)](https://instagram.com/abimanyudans) 
+[![](https://komarev.com/ghpvc/?username=abimanyuda&color=purple&label=Profile%20Views)](https://github.com/abimanyuda/abimanyuda)
+[![](https://img.shields.io/github/followers/abimanyuda?label=GitHub%20Followers)](https://github.com/abimanyuda)
 
----
+### Core Tech Stacks
+![My Skills](https://skillicons.dev/icons?i=py,go,ts,react,next)
 
-## 🛠 Tech Stack
-**Languages & Frameworks**
-- Python, Go, JavaScript
-- REST API, Backend Architecture
+### Other Tech Stacks
+![My Skills](https://skillicons.dev/icons?perline=9&i=js,html,css,tailwind,nodejs,dotnet,postgres,mysql,mongodb,docker,aws,flutter,dart,flask,supabase,express,redux)
 
-**Data & Database**
-- PostgreSQL, MySQL
-- Pandas, Data Analysis
+### Tools
+![My Skills](https://skillicons.dev/icons?i=vscode,postman,git,github,figma)
 
-**Tools & DevOps**
-- Docker
-- Git & GitHub
-- Linux Server / VPS
+### Statistics
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=abimanyuda&theme=tokyonight&show_icons=true&)
 
----
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abimanyuda&card_width=495&langs_count=7&layout=compact&theme=tokyonight)
 
-## 📂 Featured Projects
-🔹 **Finance Dashboard API**  
-Backend service for tracking income & expenses with monthly analytics  
-`Go • PostgreSQL • REST API`
-
-🔹 **Data Analysis & Prediction**
-Data-driven projects using Python for analytics & forecasting  
-`Python • Pandas • Matplotlib`
-
-🔹 **Web-Based Systems**
-Full-stack applications with clean architecture & clear data flow
-
-_(see pinned repositories below 👇)_
-
----
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abimanyuda&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abimanyuda&layout=compact&theme=github_dark)
-
----
-
-## 📈 Current Focus
-- Financial data analytics  
-- Payment systems & fintech research  
-- Scalable backend architecture  
-
----
-
-## 📫 Connect With Me
-- GitHub: https://github.com/abimanyuda
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:a855f7&height=100&section=footer" />
