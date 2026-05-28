@@ -5,7 +5,7 @@ I am an AI Engineer, Full-Stack Developer, and Data Scientist with a strong inte
 I focus on building innovative, smart, and efficient digital systems that connect high-performance technical execution with real-world business needs. 
 
 [![Mail Badge](https://img.shields.io/badge/-abimanyudans@gmail.com-dc2626?style=flat&labelColor=dc2626&logo=gmail&logoColor=white)](mailto:abimanyudans@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-abimanyudans-0284c7?style=flat&labelColor=0284c7&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/abimanyudans/) 
+[![Linkedin Badge](https://custom-icon-badges.demolab.com/badge/-abimanyudans-0284c7?style=flat&labelColor=0284c7&logo=linkedin-white&logoColor=white)](https://www.linkedin.com/in/abimanyudans/) 
 [![Instagram Badge](https://img.shields.io/badge/-@abimanyudans-c026d3?style=flat&labelColor=c026d3&logo=instagram&logoColor=white)](https://instagram.com/abimanyudans) 
 [![](https://komarev.com/ghpvc/?username=abimanyuda&color=a855f7&label=Profile%20Views)](https://github.com/abimanyuda/abimanyuda)
 [![](https://img.shields.io/github/followers/abimanyuda?label=GitHub%20Followers)](https://github.com/abimanyuda)
