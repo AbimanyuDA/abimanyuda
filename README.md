@@ -1,4 +1,8 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:a855f7&height=150&text=Hi,%20I%27m%20Abimanyu&fontSize=50&fontColor=ffffff&fontAlignY=45&animation=twinkling&desc=AI%20Engineer%20and%20Software%20Developer&descSize=30&descAlignY=85&section=header)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:a855f7&height=150&text=Hi,%20I%27m%20Abimanyu&fontSize=50&fontColor=ffffff&fontAlignY=45&animation=twinkling&desc=AI%20Engineer%20and%20Software%20Developer&descSize=30&descAlignY=85&section=header" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,100:581c87&height=150&text=Hi,%20I%27m%20Abimanyu&fontSize=50&fontColor=ffffff&fontAlignY=45&animation=twinkling&desc=AI%20Engineer%20and%20Software%20Developer&descSize=30&descAlignY=85&section=header" />
+  <img alt="Header" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:a855f7&height=150&text=Hi,%20I%27m%20Abimanyu&fontSize=50&fontColor=ffffff&fontAlignY=45&animation=twinkling&desc=AI%20Engineer%20and%20Software%20Developer&descSize=30&descAlignY=85&section=header" />
+</picture>
 
 I am an AI Engineer, Full-Stack Developer, and Data Scientist with a strong interest in finance and investment. I have experience in designing and developing end-to-end digital solutions, implementing artificial intelligence (AI) systems, analyzing business and financial data, and bridging technology capabilities with business strategy.
 
