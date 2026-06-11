@@ -15,24 +15,24 @@ I focus on building innovative, smart, and efficient digital systems that connec
 <div align="center">
 
   <!-- GitHub Stats -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abimanyuda&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="abimanyuda's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abimanyuda&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&v=1" alt="abimanyuda's GitHub Stats" />
 
   <!-- Top Languages -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abimanyuda&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abimanyuda&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&v=1" alt="Top Languages" />
 
 </div>
 
 <div align="center">
 
   <!-- Streak Stats -->
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=abimanyuda&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=abimanyuda&theme=tokyonight&hide_border=true&v=1" alt="GitHub Streak" />
 
 </div>
 
 <div align="center">
 
   <!-- Contribution Graph -->
-  <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=abimanyuda&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution Graph" />
+  <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=abimanyuda&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity&v=1" alt="Contribution Graph" />
 
 </div>
 
