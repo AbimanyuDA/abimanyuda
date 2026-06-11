@@ -18,14 +18,14 @@ I focus on building innovative, smart, and efficient digital systems that connec
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abimanyuda&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&v=1" alt="abimanyuda's GitHub Stats" />
 
   <!-- Top Languages -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abimanyuda&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&v=1" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbimanyuDA&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&v=2" alt="Top Languages" />
 
 </div>
 
 <div align="center">
 
   <!-- Streak Stats -->
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=abimanyuda&theme=tokyonight&hide_border=true&v=1" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AbimanyuDA&theme=tokyonight&hide_border=true&v=2" alt="GitHub Streak" />
 
 </div>
 
