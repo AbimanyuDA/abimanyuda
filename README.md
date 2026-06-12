@@ -25,7 +25,7 @@ I focus on building innovative, smart, and efficient digital systems that connec
 <div align="center">
 
   <!-- Streak Stats -->
-  <img height="180em" src="https://streak-stats.demolab.com/?user=AbimanyuDA&theme=tokyonight&hide_border=true&v=3" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-streak-stats-eta-sepia-91.vercel.app/?user=AbimanyuDA&theme=tokyonight&hide_border=true&v=3" alt="GitHub Streak" />
 
 </div>
 
