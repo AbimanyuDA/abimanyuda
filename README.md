@@ -29,13 +29,6 @@ I focus on building innovative, smart, and efficient digital systems that connec
 
 </div>
 
-<div align="center">
-
-  <!-- Contribution Graph -->
-  <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=abimanyuda&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity&v=1" alt="Contribution Graph" />
-
-</div>
-
 ## Skills & Technologies
 
 ### Programming Languages
